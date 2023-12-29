@@ -11,6 +11,10 @@ The purpose of this project is to develop a comprehensive CRM (Customer Relation
  - Reactjs
  - MySql
 
+# Platforms:
+ - Web
+ - Mobile
+
 # Login:
 <img width="563" alt="image" src="https://github.com/glocalviewdevelopers/cuppanord/assets/135798888/d4e9139e-1bab-4e0b-9461-c1dd947ae3f5">
 
