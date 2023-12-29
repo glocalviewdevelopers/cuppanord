@@ -4,14 +4,14 @@ A CRM coffee vending machine offers a personalized experience by remembering cus
 # Purpose: 
 The purpose of this project is to develop a comprehensive CRM (Customer Relationship Management) system that encompasses various essential features to streamline business processes and enhance customer management. The CRM system will provide a centralized platform for managing customer relationships, sales, inventory, machine management, ticketing and more. The project aims to create a user-friendly and secure system that meets the specific requirements of the organization and facilitates efficient operations.
 
+# Platforms:
+ - Web
+ - Mobile
+
 # Technologies Used:
  - Nodejs 
  - Reactjs
  - MySql
-
-# Platforms:
- - Web
- - Mobile
 
 # Login:
 <img width="563" alt="image" src="https://github.com/glocalviewdevelopers/cuppanord/assets/135798888/d4e9139e-1bab-4e0b-9461-c1dd947ae3f5">
